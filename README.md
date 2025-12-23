@@ -53,5 +53,5 @@ CSS Grid is a powerful tool, learning some basics showed me that it has many usa
 
 ## Author
 
-- Website - [Mateus Risso Di Blasio](https://github.com/MateusRissoDiBlasio)
+- GitHub - [Mateus Risso Di Blasio](https://github.com/MateusRissoDiBlasio)
 - Frontend Mentor - [@MateusRissoDiBlasio](https://www.frontendmentor.io/profile/MateusRissoDiBlasio)
